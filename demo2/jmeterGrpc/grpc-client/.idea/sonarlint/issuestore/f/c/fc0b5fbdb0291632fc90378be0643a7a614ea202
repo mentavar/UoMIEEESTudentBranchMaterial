@@ -1,0 +1,18 @@
+
+›
+java:S1488¯"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~J$2b97f6a3-6c18-4d06-862e-0092a9e80824
+–	java:S116`"[Rename this field "responseMessage_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âáç£J$7a43abf7-b006-4025-a79e-365f461f2470
+”	java:S116„"XRename this field "responseCode_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øáåJ$0b1d939a-9e1b-414b-a93f-ccfec356c453
+¥
+java:S4144ä"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 587.(æ³ØıÿÿÿÿJ$4c72bdd8-fd28-456e-b80f-97b7f79749bd
+n
+java:S1948`"2Make "responseMessage_" transient or serializable.(âáç£J$c58dc590-536c-4214-96f7-dbb318287412
+“
+java:S3077`"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(âáç£J$4cd94f23-a36a-40a8-a396-22a66603053c
+ƒ
+java:S1126Ä"AReplace this if-then-else statement by a single return statement.(®ÈäîÿÿÿÿÿJ$fcccadeb-cde0-45b7-99e1-976ea3dd5fa8
+œ	java:S116Ì"[Rename this field "responseMessage_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÜ³ÄùÿÿÿÿJ$b2e70717-1198-4717-b51c-68658de04ca2
+”	java:S116˜"XRename this field "responseCode_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øáåJ$47582269-7cc8-4407-938a-945409dbefa7
+e	java:S108Ò")Either remove or fill this block of code.(º„ç½J$473b2d9e-79f8-4929-bf41-14ab925abed6
+•
+java:S2975ı"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾ÒûÿÿÿÿJ$ff294480-b583-4d09-95d8-aa80dad0732f

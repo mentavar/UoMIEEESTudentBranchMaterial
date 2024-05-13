@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "io.grpc.java.testing_service";
+option java_outer_classname = "TestingServiceProto";
+option objc_class_prefix = "HLW";
+
+package user_service;
+
+service User {
+	rpc login (LoginRequest) returns (APIResponse) {}
+}
+
+message LoginRequest {
+
+    string username = 1;
+    string password = 2;
+}
+
+message APIResponse {
+
+    string responseMessage = 1;
+    int32 responseCode = 2;
+}

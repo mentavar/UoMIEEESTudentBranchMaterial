@@ -1,0 +1,56 @@
+
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ıÿÿÿÿ
+J
+java:S1172	"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿ
+o	java:S116‰"TRename this field "username_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¦¹àüÿÿÿÿ
+o	java:S116­"TRename this field "password_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¤’ûÿÿÿÿ
+z
+java:S4144Õ"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 700.(Õ¦ì
+G
+java:S1948‰"+Make "username_" transient or serializable.(Œ¦¹àüÿÿÿÿ
+G
+java:S1948­"+Make "password_" transient or serializable.(–¤’ûÿÿÿÿ
+s
+java:S3077‰"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Œ¦¹àüÿÿÿÿ
+s
+java:S3077­"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(–¤’ûÿÿÿÿ
+]
+java:S1126†"AReplace this if-then-else statement by a single return statement.(®Èäîÿÿÿÿÿ
+o	java:S116"TRename this field "username_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ×¬×ÿÿÿÿÿ
+o	java:S116Û"TRename this field "password_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉíËüÿÿÿÿ
+?	java:S108”")Either remove or fill this block of code.(º„ç½
+o
+java:S2975¿"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+q	java:S116Ë"[Rename this field "responseMessage_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âáç£
+n	java:S116ï"XRename this field "responseCode_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øáå
+{
+java:S4144Ï
+"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 1334.(Á±×ä
+I
+java:S1948Ë"2Make "responseMessage_" transient or serializable.(âáç£
+n
+java:S3077Ë"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(âáç£
+]
+java:S1126¯"AReplace this if-then-else statement by a single return statement.(®Èäîÿÿÿÿÿ
+v	java:S116·	"[Rename this field "responseMessage_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÜ³Äùÿÿÿÿ
+n	java:S116ƒ
+"XRename this field "responseCode_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øáå
+?	java:S108½")Either remove or fill this block of code.(º„ç½
+o
+java:S2975è"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+€
+java:S4144ñ"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 1752.(ŸåË¨øÿÿÿÿ
+]
+java:S1126Ì"AReplace this if-then-else statement by a single return statement.(®Èäîÿÿÿÿÿ
+?	java:S108Ö")Either remove or fill this block of code.(º„ç½
+o
+java:S2975û"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Îõ¾Òûÿÿÿÿ
+b
+java:S1301‚"KReplace this "switch" statement by "if" statements to increase readability.(¹ŠÒÓ
+u
+java:S1488ñ"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+u
+java:S1488š"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+u
+java:S1488³"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
